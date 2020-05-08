@@ -9,10 +9,6 @@ from math import exp #for sigmoid activation function
 # In[9]:
 
 
-# No. of data points
-
-
-
 #initializing the neuralNetwork for weights
 def initNetwork(inputsNum, hiddenNum, outputsNum):
     mynetwork=list()
