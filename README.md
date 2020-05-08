@@ -1,5 +1,5 @@
 # Machine-Learning-Assignments
- Members:
+ ## Members:
    #### S Shreekumar 1MS17IS097
-    Rudra B.V.   1MS17IS096
-    Reshma S     1MS17IS088
+   #### Rudra B.V.   1MS17IS096
+   #### Reshma S     1MS17IS088
